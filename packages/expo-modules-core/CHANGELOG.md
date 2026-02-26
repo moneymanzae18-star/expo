@@ -6,7 +6,7 @@
 
 ### 🎉 New features
 
-- [Android] Use the `RuntimeScheduler` to schedule tasks on the JS thread.
+- [Android] Use the `RuntimeScheduler` to schedule tasks on the JS thread. ([#43481](https://github.com/expo/expo/pull/43481) by [@alanjhughes](https://github.com/alanjhughes))
 
 ### 🐛 Bug fixes
 
